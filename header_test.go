@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jhillyerd/enmime/internal/textproto"
+	"github.com/mtringuyen/enmime/internal/textproto"
 )
 
 // Test re-encoding to base64

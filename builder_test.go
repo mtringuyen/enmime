@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jhillyerd/enmime"
-	"github.com/jhillyerd/enmime/internal/test"
+	"github.com/mtringuyen/enmime"
+	"github.com/mtringuyen/enmime/internal/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

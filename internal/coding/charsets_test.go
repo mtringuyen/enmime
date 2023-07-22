@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jhillyerd/enmime/internal/coding"
+	"github.com/mtringuyen/enmime/internal/coding"
 )
 
 // Test an invalid character set with the CharsetReader

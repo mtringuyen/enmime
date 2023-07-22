@@ -2,9 +2,6 @@ module github.com/mtringuyen/enmime
 
 go 1.18
 
-replace (
-	github.com/jhillyerd/enmime => github.com/mtringuyen/enmime v1.0.0
-)
 require (
 	github.com/cention-sany/utf7 v0.0.0-20170124080048-26cad61bd60a
 	github.com/go-test/deep v1.0.7

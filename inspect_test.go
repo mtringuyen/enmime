@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jhillyerd/enmime"
-	"github.com/jhillyerd/enmime/internal/test"
-	"github.com/jhillyerd/enmime/internal/textproto"
+	"github.com/mtringuyen/enmime"
+	"github.com/mtringuyen/enmime/internal/test"
+	"github.com/mtringuyen/enmime/internal/textproto"
 )
 
 func TestDecodeRFC2047(t *testing.T) {

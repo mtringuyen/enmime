@@ -6,8 +6,8 @@ import (
 	"strings"
 	_utf8 "unicode/utf8"
 
-	"github.com/jhillyerd/enmime/internal/coding"
-	"github.com/jhillyerd/enmime/internal/stringutil"
+	"github.com/mtringuyen/enmime/internal/coding"
+	"github.com/mtringuyen/enmime/internal/stringutil"
 	"github.com/pkg/errors"
 )
 
